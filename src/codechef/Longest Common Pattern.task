@@ -1,0 +1,44 @@
+22 Longest Common Pattern
+12 MULTI_NUMBER
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+48 4
+abcd
+xyz
+abcd
+bcda
+aabc
+acaa
+Codechef
+elfedcc
+
+8 0
+4
+3
+5
+
+0
+1
+11 1
+aA123
+ZAZ
+1 1
+1
+12 src/codechef
+7 -Xmx64M
+4 Main
+29 codechef.LongestCommonPattern
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.02.09
+23 February Challenge 2014
+1
+14 io.InputReader
+15 io.OutputWriter
+0
+0

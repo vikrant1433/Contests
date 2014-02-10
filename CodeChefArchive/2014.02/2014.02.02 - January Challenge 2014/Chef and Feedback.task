@@ -1,0 +1,30 @@
+17 Chef and Feedback
+12 MULTI_NUMBER
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+26 2
+11111110
+10101010101010
+
+9 Bad
+Good
+
+1
+12 src/codechef
+7 -Xmx64M
+4 Main
+24 codechef.ChefAndFeedback
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.02.02
+22 January Challenge 2014
+1
+14 io.InputReader
+15 io.OutputWriter
+0
+0

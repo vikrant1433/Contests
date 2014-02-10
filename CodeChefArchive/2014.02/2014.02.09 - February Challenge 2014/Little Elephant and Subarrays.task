@@ -1,0 +1,46 @@
+29 Little Elephant and Subarrays
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+12 3
+1 1 1
+1
+1
+
+1 6
+1
+1
+21 5
+4 1 2 3 4
+4
+3
+4
+6
+1
+7 2
+2
+0
+8
+0
+2
+0 
+0 
+0
+12 src/codechef
+7 -Xmx64M
+4 Main
+35 codechef.LittleElephantAndSubarrays
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.02.09
+23 February Challenge 2014
+0
+14 io.InputReader
+15 io.OutputWriter
+0
+0
